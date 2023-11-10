@@ -26,7 +26,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 2. activate GitHub Pages to generate a website from the files
 3. familiarize yourself with Markdown language and modify the `index.md` file
 4. continuously update the Tasks and Log headings to reflect your progress
-5. ... 
+5. weekly Log update
+6. short presentation 
 
 ## Log
 - 2023-10-11 repository amended for 2023
